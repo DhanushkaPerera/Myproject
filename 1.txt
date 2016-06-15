@@ -1,0 +1,7 @@
+nw folder in desktopmkdirmkdir
+pwd
+ls - list of items in the dir
+cd Desktop/
+cd git/
+git init - make the current dir a repository
+ls -al - will show the .git(hidden file)
